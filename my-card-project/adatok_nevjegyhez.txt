@@ -1,0 +1,7 @@
+name: Attila Nagy
+profession: packaging designer
+location: Budapest, HU
+link1: https://twitter.com/#
+link2: https://behance.net/#
+link3: https://instagram.com/#
+rólam: Imádok a csomagolástervezés részleteivel babrálni. A Twitteremen legtöbbször dizájnról, fotózásról írok, az Instagramomat pedig elárasztják az imádnivaló #PrincessImre cicámról készült fotók.
